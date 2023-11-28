@@ -1,4 +1,4 @@
-# Algorithms II - Lab 8: Algorithms for Geometry
+# ISC4221C Discrete Algorithms for Science Applications (Fall 2023) Lab 8
 
 **Your report should be a self-contained markdown file with a description of your answers and the code copied inside of it.**
 
