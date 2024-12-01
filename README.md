@@ -38,7 +38,7 @@ Estimate the integral of the function $f(x) = x^2$ over T using N = 10, then 100
 2. Algorithm 2;
 3. Algorithm 3.
 
-Turn in your 15 computed estimates for the integral and make any comments you can think of about the fact that the exact integral is 46.25.
+Turn in your 12 computed estimates for the integral and make any comments you can think of about the fact that the exact integral is 46.25.
 
 ## Problem 3 (10 pts): Triangle Properties
 
